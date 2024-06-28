@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khyati Baria</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Book Store**
-
 - 👨‍💻 All of my projects are available at [https://khyatibaria.netlify.app/](https://khyatibaria.netlify.app/)
 
 <h3 align="left">Languages and Tools:</h3>
